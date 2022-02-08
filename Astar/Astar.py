@@ -1,4 +1,4 @@
-#Group members- Sahil Rasane(801135252),Snehal Kulkarni(801147615)
+#Group members- Sahil Rasane(801135252)
 import math
 import copy
 
